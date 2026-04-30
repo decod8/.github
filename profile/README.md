@@ -86,8 +86,7 @@ Mobile-first clinical calculator app for healthcare professionals. Built for fas
 <br/>
 
 - [Connected Clinical System Case Study](https://decod8.com/work/connected-clinical-system)
-- [GitHub Repository](https://github.com/decod8/connected-clinical-system)
-    
+- [GitHub Repository](https://github.com/decod8/connected-clinical-system)    
     <br/>
     </td>
   </tr>
