@@ -34,27 +34,27 @@
 <table>
   <tr>
     <td valign="top" width="20%">
-      <img src="../assets/horizontal-line.png" alt="" width="100%" />
+      <img src="../assets/horizontal-line.png" alt="" width="100%" height="3" />
       <strong>HealthTech</strong><br/><br/>
       Software for clinical, healthcare, and sensitive-data environments.
     </td>
     <td valign="top" width="20%">
-      <img src="../assets/horizontal-line.png" alt="" width="100%" />
+      <img src="../assets/horizontal-line.png" alt="" width="100%" height="3" />
       <strong>Mobile</strong><br/><br/>
       Product-quality iOS and Android experiences built for real-world use.
     </td>
     <td valign="top" width="20%">
-      <img src="../assets/horizontal-line.png" alt="" width="100%" />
+      <img src="../assets/horizontal-line.png" alt="" width="100%" height="3" />
       <strong>Web</strong><br/><br/>
       Clear, reliable interfaces for modern operational and clinical workflows.
     </td>
     <td valign="top" width="20%">
-      <img src="../assets/horizontal-line.png" alt="" width="100%" />
+      <img src="../assets/horizontal-line.png" alt="" width="100%" height="3" />
       <strong>Architecture</strong><br/><br/>
       Practical system design, integration thinking, and long-term maintainability.
     </td>
     <td valign="top" width="20%">
-      <img src="../assets/horizontal-line.png" alt="" width="100%" />
+      <img src="../assets/horizontal-line.png" alt="" width="100%" height="3" />
       <strong>Compliance-aware</strong><br/><br/>
       Structured systems designed with sensitive-domain constraints in mind.
     </td>
@@ -70,7 +70,7 @@
 <table width="70%">
   <tr>
     <td valign="top" width="50%">
-      <img src="../assets/horizontal-line.png" alt="" width="100%" />
+      <img src="../assets/horizontal-line.png" alt="" width="100%" height="3" />
       <strong>ClinicMetrics</strong><br/><br/>
 Mobile-first clinical calculator app for healthcare professionals. Built for fast, reliable access to clinical scores, indices, and medical unit conversions.
 
@@ -80,15 +80,13 @@ Mobile-first clinical calculator app for healthcare professionals. Built for fas
 - [ClinicMetrics on Google Play](https://play.google.com/store/apps/details?id=com.decod8.clinicmetrics)
     </td>
     <td valign="top" width="50%">
-      <img src="../assets/horizontal-line.png" alt="" width="100%" />
+      <img src="../assets/horizontal-line.png" alt="" width="100%" height="3"/>
       <strong>Connected Clinical System</strong><br/><br/>
       Portfolio health software system combining web and mobile applications, designed to demonstrate product architecture, interoperability-aware design, and production-minded execution.
 <br/>
 
 - [Connected Clinical System Case Study](https://decod8.com/work/connected-clinical-system)
 - [GitHub Repository](https://github.com/decod8/connected-clinical-system)
-    </td>
-    <td valign="top" width="20%">
     </td>
   </tr>
 </table>
