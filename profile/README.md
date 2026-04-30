@@ -22,13 +22,10 @@
 </p>
 
 <p align="center">
-  <a href="https://decod8.com">🌐Website </a>
-  ·
-  <a href="mailto:hello@decod8.com">✉️Email</a>
+  <a href="https://decod8.com">  <img src="../assets/icon-globe.png" alt="" height="14"/>https://decod8.com </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="mailto:hello@decod8.com"><img src="../assets/icon-email.png" alt="" height="14"/>hello@decod8.com</a>
   <br/>
-  <a href="https://github.com/decod8/connected-clinical-system">Connected Clinical System</a>
-  ·
-  <a href="https://decod8.com/work/connected-clinical-system">Case study</a>
 </p>
 
 
@@ -60,6 +57,38 @@
       <img src="../assets/horizontal-line.png" alt="" width="100%" />
       <strong>Compliance-aware</strong><br/><br/>
       Structured systems designed with sensitive-domain constraints in mind.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<br>
+
+## Products & Systems
+
+<table width="70%">
+  <tr>
+    <td valign="top" width="50%">
+      <img src="../assets/horizontal-line.png" alt="" width="100%" />
+      <strong>ClinicMetrics</strong><br/><br/>
+Mobile-first clinical calculator app for healthcare professionals. Built for fast, reliable access to clinical scores, indices, and medical unit conversions.
+
+<br/>
+
+- [ClinicMetrics Case Study](https://decod8.com/work/clinicmetrics)
+- [ClinicMetrics on Google Play](https://play.google.com/store/apps/details?id=com.decod8.clinicmetrics)
+    </td>
+    <td valign="top" width="50%">
+      <img src="../assets/horizontal-line.png" alt="" width="100%" />
+      <strong>Connected Clinical System</strong><br/><br/>
+      Portfolio health software system combining web and mobile applications, designed to demonstrate product architecture, interoperability-aware design, and production-minded execution.
+<br/>
+
+- [Connected Clinical System Case Study](https://decod8.com/work/connected-clinical-system)
+- [GitHub Repository](https://github.com/decod8/connected-clinical-system)
+    </td>
+    <td valign="top" width="20%">
     </td>
   </tr>
 </table>
