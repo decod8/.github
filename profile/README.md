@@ -74,7 +74,7 @@
       <strong>ClinicMetrics</strong><br/><br/>
 Mobile-first clinical calculator app for healthcare professionals. Built for fast, reliable access to clinical scores, indices, and medical unit conversions.
 
-<br/>
+<br/><br/>
 
 - [ClinicMetrics Case Study](https://decod8.com/work/clinicmetrics)
 - [ClinicMetrics on Google Play](https://play.google.com/store/apps/details?id=com.decod8.clinicmetrics)
@@ -83,7 +83,7 @@ Mobile-first clinical calculator app for healthcare professionals. Built for fas
       <img src="../assets/horizontal-line.png" alt="" width="100%" height="3"/>
       <strong>Connected Clinical System</strong><br/><br/>
       Portfolio health software system combining web and mobile applications, designed to demonstrate product architecture, interoperability-aware design, and production-minded execution.
-<br/>
+<br/><br/>
 
 - [Connected Clinical System Case Study](https://decod8.com/work/connected-clinical-system)
 - [GitHub Repository](https://github.com/decod8/connected-clinical-system)    
